@@ -1,15 +1,6 @@
 # ATLIQ-Sales-Insight : Data-Analysis-using-SQL-and-Power BI
 
-## OVERVIEW:
-    PROJECT NAME
-    PROBLEM STATEMENTS
-    APPROACH - PROJECT PLANNING & AIMS GRID
-    DATA ANALYST APPROACH
-    DATA ANALYSIS USING SQL
-    DATA ANALYSIS USING TABLEAU
-    NOTE
-
-**About Project:**
+## About Project:
 
 •	Performed Data Cleaning, Analysing and Visualization on India based hardware company sales insights.
 
@@ -18,7 +9,7 @@
 •	Developed a Power BI dashboard to perform analysis, producing quantitative visualizations in Power BI to draw valuable insights based on different parameters affecting the company performance year on year and further provide business solutions.
 
 
-About ATLIQ: 
+**About ATLIQ: **
 
 •	AtliQ Hardware is Computer Hardware and peripheral Manufacture company.
 
