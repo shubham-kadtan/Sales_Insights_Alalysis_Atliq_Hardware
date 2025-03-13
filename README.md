@@ -9,12 +9,14 @@
 •	Developed a Power BI dashboard to perform analysis, producing quantitative visualizations in Power BI to draw valuable insights based on different parameters affecting the company performance year on year and further provide business solutions.
 
 
-**About ATLIQ: **
+
+**About ATLIQ:**
 
 •	AtliQ Hardware is Computer Hardware and peripheral Manufacture company.
 
 
-Technologies Used: 
+
+**Technologies Used:** 
 
 •	Advance Excel
 
@@ -23,6 +25,7 @@ Technologies Used:
 •	Power BI
 
 •	Power Query
+
 
 
 ## PROBLEM STATEMENTS:
@@ -38,6 +41,7 @@ Q3. Top 5 customers by revenue & sales quantity.
 Q4. Top 5 Products by revenue.
 
 Q5. Net Profit & Profit Margin by Market.
+
 
 
 ## APPROACH - PROJECT PLANNING & AIMS GRID
