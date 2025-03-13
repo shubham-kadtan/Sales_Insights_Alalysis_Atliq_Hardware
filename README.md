@@ -119,7 +119,7 @@ Creating Star Schema in Tableau
 
 ### Tableau Dashboard: Revenue Analysis
 
-![image](https://user-images.githubusercontent.com/124501309/222758757-53ebef06-c95d-4aa1-bd16-cb38b2d2dfd8.png)
+![Image](https://github.com/user-attachments/assets/d9d82dcf-5873-4f06-a942-be0134e7402b)
 
 
 
