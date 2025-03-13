@@ -113,23 +113,23 @@ An automated dashboard providing quick & latest sales insights in order to suppo
 ## DATA ANALYSIS USING Power BI:
 
 Power BI Public Dashboards: Revenue & Profit Analysis Power BI
-Creating Star Schema in Tableau
+Creating Star Schema in Power BI
 
-![image](https://user-images.githubusercontent.com/124501309/216817919-d2377269-7a72-4a35-9350-8c7cd49da89c.png)
+![Image](https://github.com/user-attachments/assets/d9df999c-2d32-4429-8758-f002b848fa39)
 
-### Tableau Dashboard: Revenue Analysis
+### Power BI Dashboard: Key Analysis
 
-![Image](https://github.com/user-attachments/assets/d9d82dcf-5873-4f06-a942-be0134e7402b)
+![Image](https://github.com/user-attachments/assets/a7a1806b-c659-4e1d-a9f8-454289648e94)
 
 
+### Power BI Dashboard: Profit Analysis
 
-https://user-images.githubusercontent.com/124501309/222756968-8c0c1865-285b-466f-a4bd-9c4da35556c5.mp4
 
-### Tableau Dashboard: Profit Analysis
+![Image](https://github.com/user-attachments/assets/22a6648a-5225-4a4a-89f5-1f1714261871)
 
-![image](https://user-images.githubusercontent.com/124501309/222758196-8164d673-9904-4ed7-9e29-d97e6bf9517d.png)
+### Power BI Dashboard: Performance Analysis
 
-https://user-images.githubusercontent.com/124501309/222757161-a599a815-60c6-4036-a576-3b4a213d868a.mp4
+![Image](https://github.com/user-attachments/assets/abeeabf0-72c5-41ff-b7af-45d52e7178e8)
 
 ## RECOMMENDATION:
 
