@@ -1,6 +1,4 @@
-# ATLIQ-Sales-Insight : Data-Analysis-using-SQL-and-TABLEAU
-
-[Go to my LinkedIn](https://www.linkedin.com/in/gulshan-gedam-362905209/) 🌐
+# ATLIQ-Sales-Insight : Data-Analysis-using-SQL-and-Power BI
 
 ## OVERVIEW:
     PROJECT NAME
@@ -11,11 +9,7 @@
     DATA ANALYSIS USING TABLEAU
     NOTE
 
-## PROJECT NAME: 
-
-ATLIQ SALES INSIGHT – DATA ANALYSIS USING SQL AND TABLEAU
-
-About Project:
+**About Project:**
 
 •	Performed Data Cleaning, Analysing and Visualization on India based hardware company sales insights.
 
@@ -81,36 +75,28 @@ An automated dashboard providing quick & latest sales insights in order to suppo
 ## DATA ANALYSIS USING SQL:
 
 • Show all customer records
-               
-SELECT * FROM customers;
+    SELECT * FROM customers;
     
 • Show total number of customers
-               
-  SELECT count(*) FROM customers;
+    SELECT count(*) FROM customers;
     
 • Show transactions for Chennai market (market code for chennai is Mark001)
-               
-  SELECT * FROM transactions where market_code='Mark001';
+    SELECT * FROM transactions where market_code='Mark001';
     
 • Show distrinct product codes that were sold in chennai.
-               
-  SELECT distinct product_code FROM transactions where market_code='Mark001';
+    SELECT distinct product_code FROM transactions where market_code='Mark001';
     
 • Show transactions where currency is US dollars.
-               
-  SELECT * from transactions where currency="USD"
+    SELECT * from transactions where currency="USD"
     
 • Show transactions in 2020 join by date table.
-               
-  SELECT transactions., date. FROM transactions INNER JOIN date ON transactions.order_date=date.date where date.year=2020;
+    SELECT transactions., date. FROM transactions INNER JOIN date ON transactions.order_date=date.date where date.year=2020;
     
 • Show total revenue in year 2020.
-               
- SELECT SUM(transactions.sales_amount) FROM transactions INNER JOIN date ON transactions.order_date=date.date where date.year=2020 and transactions.currency="INR\r" or transactions.currency="USD\r";
+    SELECT SUM(transactions.sales_amount) FROM transactions INNER JOIN date ON transactions.order_date=date.date where date.year=2020 and transactions.currency="INR\r" or transactions.currency="USD\r";
     
 • Show total revenue in year 2020, January Month.
-        
-  SELECT SUM(transactions.sales_amount) FROM transactions INNER JOIN date ON transactions.order_date=date.date where date.year=2020 and and date.month_name="January" and (transactions.currency="INR\r" or transactions.currency="USD\r");
+    SELECT SUM(transactions.sales_amount) FROM transactions INNER JOIN date ON transactions.order_date=date.date where date.year=2020 and and date.month_name="January" and (transactions.currency="INR\r" or transactions.currency="USD\r");
 
 
 ## DATA ANALYSIS USING Power BI:
@@ -144,9 +130,3 @@ Based on the dashboards Insights:
   4) North zone have highest revenue contribution but lowest profit % whereas South zone have lowest revenue contribution but highest profit %. Try to increase customers in South zone.
   5) Delhi is the highest revenue contibutor and second highest profit contributor whereas Mumbai is the second highest revenue contributor and highest profit contributor. So its need to be implement the same market strategy as in mumbai to increase the profit % in Delhi.
 
-
-## NOTE:
-
-I have uploaded all the files, datasets, workbook, icons above. Feel free to use this Project's resourses for your next Project. If you like this Project and Dashboard give it a Star or just tell me. It'll make me feel Good :)
-
-[Go to my LinkedIn](https://www.linkedin.com/in/gulshan-gedam-362905209/) 🌐
